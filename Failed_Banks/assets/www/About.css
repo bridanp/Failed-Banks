@@ -1,0 +1,129 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilenavbar_77 */
+.About_mobilenavbar_77 {
+
+}
+.About_mobilenavbar_77 .ui-grid-a .ui-block-a {
+	clear:none;
+}
+.ui-footer .About_mobilenavbar_77 ul li:last-child a {
+	margin-right: 1px !important;
+}
+.ui-header .About_mobilenavbar_77 ul li:last-child a {
+	margin-right: -1px !important;
+}
+.About_mobilenavbar_77 ul.ui-grid-duo li:nth-child(even) a {
+	margin-right: 1px !important;
+}
+/* mobilecontainer */
+.ui-content.About_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilegrid_89 */
+.About_mobilegrid_89 {
+	height: auto;
+	width:100%;
+	margin: 4px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.About_mobilegrid_89_wrapper {
+
+}
+.About_mobilegrid_89 > tr > td {
+	vertical-align: top;
+}
+.About_mobilegrid_89_row_0, .About_mobilegrid_89_row_0 > td {
+	height: 30px
+}
+.About_mobilegrid_89_row_1, .About_mobilegrid_89_row_1 > td {
+	height: 30px
+}
+.About_mobilegrid_89_row_2, .About_mobilegrid_89_row_2 > td {
+	height: 30px
+}
+.About_mobilegrid_89_row_3, .About_mobilegrid_89_row_3 > td {
+	height: 30px
+}
+.About_mobilegrid_89_row_4, .About_mobilegrid_89_row_4 > td {
+	height: 30px
+}
+/* mobilegridcell_90 */
+.About_mobilegridcell_90 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.About_mobilegridcell_90 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_97 */
+.About_mobilelabel_97 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_92 */
+.About_mobilegridcell_92 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.About_mobilegridcell_92 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_98 */
+.About_mobilelabel_98 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_94 */
+.About_mobilegridcell_94 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.About_mobilegridcell_94 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_99 */
+.About_mobilelabel_99 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_95 */
+.About_mobilegridcell_95 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.About_mobilegridcell_95 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilegridcell_96 */
+.About_mobilegridcell_96 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.About_mobilegridcell_96 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilefooter */
+.About_mobilefooter {
+	min-height:38px;
+}

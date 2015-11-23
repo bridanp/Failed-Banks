@@ -166,7 +166,7 @@
                                         <include>*.apk</include>
                                     </includes>
                                     <keystore>../keystore.jks</keystore>
-                                    <storepass>Annie2014</storepass>
+                                    <storepass>enteranotherkeystore</storepass>
                                     <alias>apperyio.project</alias>
                                     <arguments>
                                         <argument>-digestalg</argument>
